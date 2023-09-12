@@ -12,5 +12,6 @@ public class NorahNew {
 
     public static void main(String[] args) {
         System.out.println("Norah ALi ALqahtani");
+        System.out.println("Maather Alrezqi");
     }
 }
